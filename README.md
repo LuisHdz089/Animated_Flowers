@@ -33,15 +33,6 @@ Puedes ver el proyecto en vivo aquí: **[TU_URL_DE_NETLIFY_AQUÍ]**
 
 ---
 
-## 👨‍💻 Sobre el Desarrollador
-
-Soy **Luis Hernández**, Ingeniero en Sistemas enfocado en el desarrollo de software y soluciones tecnológicas. Actualmente trabajo en proyectos de:
-* **Inteligencia Artificial** para competencias como Samsung Innovation Campus e InnovaTecNM 2026.
-* Desarrollo **Full Stack** con tecnologías como Angular, Python, Java y SQL.
-* Análisis de datos aplicados a la salud.
-
----
-
 ## 📄 Licencia
 Este proyecto fue creado con fines educativos y de práctica. Siéntete libre de usarlo y mejorarlo.
 
