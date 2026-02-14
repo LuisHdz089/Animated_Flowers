@@ -3,7 +3,7 @@
 Este es un proyecto de frontend interactivo que despliega flores animadas utilizando **HTML5, CSS3 y JavaScript**. Es una excelente muestra de cómo las animaciones y la manipulación del DOM pueden crear experiencias visuales atractivas.
 
 ## 🚀 Vista Previa
-Puedes ver el proyecto en vivo aquí: **[TU_URL_DE_NETLIFY_AQUÍ]**
+Puedes ver el proyecto en vivo aquí: **https://wcsanimatedflowers.netlify.app**
 
 ---
 
